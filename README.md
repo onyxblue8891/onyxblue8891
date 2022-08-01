@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on:
 - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about: My journey in tech!
-- 📫 How to reach me: bleauceleste@gmail.com
+- 📫 How to reach me: onyxblue8891@gmail.com
 - 😄 Pronouns: all
 - ⚡ Fun fact: My favorite sport is pool!
 
