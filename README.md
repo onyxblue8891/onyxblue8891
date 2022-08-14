@@ -1,7 +1,7 @@
 ### Hi there 👋
 **onyxblue8891/onyxblue8891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+To view more of my coding projects, please feel free to visit my codepen: https://codepen.io/onyxblue8891
 
 - 🌱 I’m currently learning: Shopify, learning courses through Freemote!
 <!-- - 👯 I’m looking to collaborate on:
